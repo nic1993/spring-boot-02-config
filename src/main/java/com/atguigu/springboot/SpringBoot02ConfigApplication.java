@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ImportResource;
 public class SpringBoot02ConfigApplication {
 
     public static void main(String[] args) {
-        System.out.println("1111");
+
 
         SpringApplication.run(SpringBoot02ConfigApplication.class, args);
     }
